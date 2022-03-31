@@ -1,4 +1,4 @@
-### Hi there 👋
+### 생각을 현실로 만들고 싶은 프론트엔드 개발자 지망 컴퓨터공학부생
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanahifan)](https://solved.ac/nanahifan/)
 
