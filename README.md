@@ -1,5 +1,7 @@
 ### 생각을 현실로 만들고 싶은 컴퓨터공학부생
 
+깃허브 프로필 꾸며야되는데 너무 귀찮다 ㅁㄴㅇㄹ
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanahifan)](https://solved.ac/nanahifan/)
 
 <!--
