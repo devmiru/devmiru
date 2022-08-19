@@ -2,7 +2,8 @@
 
 깃허브 프로필 꾸며야되는데 너무 귀찮다 ㅁㄴㅇㄹ
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanahifan)](https://solved.ac/nanahifan/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nanahifan)](https://solved.ac/nanahifan)
 
 <!--
 **devmiru/devmiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
